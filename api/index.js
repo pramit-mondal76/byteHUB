@@ -6,7 +6,7 @@ const User = require('./models/user');
 
 app.use(cors());
 app.use(express.json());
-mongoose.connect('mongodb+srv://mondalpramit76:fSRqd2gpy9XqiDH9@cluster0.ltdkfvr.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('')
 app.post('/register', async (req, res) => {
 	const { username, password } = req.body;
 	try {
