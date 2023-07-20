@@ -28,4 +28,4 @@ Technologies used in the project:
 *   React.js: Front-end library for building interactive user interfaces.
 *   Node.js: Runtime environment for server-side JavaScript execution.
 *   Express.js: Server-side framework for handling HTTP requests.
-*   MongoDB: Database for storing project and user information.
+*  FireBase: Firebase is a comprehensive mobile and web application development platform by Google, offering features like real-time database, authentication, cloud functions, and hosting.
